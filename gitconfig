@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lucha.valente@gmail.com
+	name = Luciano Valente
